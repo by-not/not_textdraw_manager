@@ -1,0 +1,4 @@
+*.amx
+*.bak
+*.tmp
+.DS_Store
